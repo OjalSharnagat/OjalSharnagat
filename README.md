@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [NotesApp](https://os-notesapp.netlify.app)
 
-- 🌱 I’m currently learning **svelte**
+- 🌱 I’m currently learning **NEXT.JS**
 
 - 👯 I’m looking to collaborate on **E-commerce app**
 
