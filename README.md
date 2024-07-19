@@ -1,4 +1,4 @@
-![MasterHead](https://pbs.twimg.com/profile_banners/1387002929589092354/1690860715/1500x500)
+
 <h1 align="center">Hi 👋, I'm Ojal</h1>
 <h3 align="center">I am a dedicated full-stack developer who finds pure joy in crafting amazing web apps.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -7,17 +7,17 @@
 
 
 
-- 🔭 I’m currently working on [NotesApp](https://os-notesapp.netlify.app)
+- 🔭 I’m currently working on [Blemense Technologies](https://blemense.tech)
 
 - 🌱 I’m currently learning **NEXT.JS**
 
-- 👯 I’m looking to collaborate on **E-commerce app**
+- 👯 I’m looking to collaborate on a **startup idea**
 
 - 👨‍💻 All of my projects are available at [ojalsharnagat.tech](ojalsharnagat.tech)
 
-- 📝 I regularly write articles on [https://dev.to/ojal_dev](https://dev.to/ojal_dev)
+- 📝 I write and publish my articles on [https://dev.to/ojal_dev](https://dev.to/ojal_dev)
 
-- 💬 Ask me about **Web apps, Tech stacks, CI-CD**
+- 💬 Ask me about **PWA, Various tech stacks, and Project Management**
 
 - 📫 How to reach me **ojal.s.official@gmail.com**
 
