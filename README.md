@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ojal.blemense.tech">🌐 Portfolio</a> •
+  <a href="https://ojal.blemense.com">🌐 Portfolio</a> •
   <a href="https://blemense.tech">🏢 Company</a> •
   <a href="https://linkedin.com/in/ojalsharnagat">LinkedIn</a> •
   <a href="https://dev.to/ojal_dev">Dev.to</a>
